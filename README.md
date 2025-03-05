@@ -1,2 +1,2 @@
-# ShadowCamp
-laravel &amp; next.js project which advertising web site
+# ShadowCampApp
+Laravel &amp; Next project 
